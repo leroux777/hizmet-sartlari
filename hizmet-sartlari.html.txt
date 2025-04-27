@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hizmet Şartları</title>
+</head>
+<body>
+  <h1>Hizmet Şartları</h1>
+  <p>Bu botu kullanarak aşağıdaki şartları kabul etmiş oluyorsunuz:</p>
+  <ul>
+    <li>Botu kötüye kullanmamak.</li>
+    <li>Sunucu kurallarına uymak.</li>
+    <li>Gizlilik ve güvenlik kurallarına saygı göstermek.</li>
+  </ul>
+</body>
+</html>
